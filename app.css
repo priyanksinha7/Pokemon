@@ -1,0 +1,11 @@
+div {
+    display: inline-block;
+}
+
+img {
+    display: block;
+}
+
+body {
+    background-color: rgb(188, 212, 97);
+}
